@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mozzie06
+- 👋 Hi, I’m Kim Jonas Cabugayan
 - 👀 I’m interested in solving puzzles.
 - 🌱 I’m currently learning web development.
 - 💞️ I’m looking to collaborate with you.
